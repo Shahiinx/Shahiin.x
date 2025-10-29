@@ -1,14 +1,44 @@
-<h1 align="center">Hi 👋, I'm Shahin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there 👋, I'm Mohamed Shahin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahiinx&label=Profile%20views&color=0e75b6&style=flat" alt="shahiinx" /> </p>
+I'm a **Python Developer** with a passion for building efficient, scalable applications. Currently, I'm expanding my skills and learning **Golang** to dive into high-performance backend development.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/62is" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="62is" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahiinx&show_icons=true&locale=en&layout=compact" alt="shahiinx" /></p>
+**Languages & Frameworks:**  
+- Python 🐍 (Django, Flask, FastAPI)  
+- Golang (learning)  
+- SQL & NoSQL databases  
+
+**Tools & Technologies:**  
+- Git & GitHub  
+- Docker & Docker Compose  
+- RESTful APIs  
+- Linux / Command Line  
+
+---
+
+## 🌱 Currently Learning
+- Go programming language (Golang)  
+- Concurrency patterns and Goroutines  
+- Advanced web backend concepts  
+
+---
+
+## 📈 GitHub Stats
+
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+---
+
+## 💬 Connect with Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
+- Twitter: [@YourTwitter](https://twitter.com/YOUR_TWITTER)  
+- Email: your.email@example.com  
+
+---
+
+"Code is like humor. When you have to explain it, it’s bad." 😄
+
