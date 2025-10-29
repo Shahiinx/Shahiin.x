@@ -28,7 +28,7 @@ I'm a **Python Developer** with a passion for building efficient, scalable appli
 
 ## 📈 GitHub Stats
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahiinx&show_icons=true&theme=radical)
 
 ---
 
